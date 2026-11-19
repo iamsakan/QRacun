@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Člani** | Tilen Kristan, Anel Šakanović |
-| **Repozitorij** | ‹https://github.com/iamsakan/QRacun.git› |
+| **Repozitorij** | https://github.com/iamsakan/QRacun.git |
 | **Platforma in orodja** | Android in iOS, Flutter (Dart), lokalna baza SQLite (sqflite) |
 | **Različica dokumenta** | 0.1, 20. 11. 2026 |
 
