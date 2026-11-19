@@ -1,0 +1,1 @@
+[Funkcionalna specifikacija](docs/SPECIFIKACIJA.md)
